@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52663389460",
+    "project_id": "medi-fill",
+    "storage_bucket": "medi-fill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52663389460:android:be5f3c270c7c797ce34601",
+        "android_client_info": {
+          "package_name": "com.example.medical_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52663389460-n5eav7sijc4cimkdedu7jmh8ofk01p3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgG5E_FgBoJm4jLO0piBSzo2SBAC-kO8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52663389460-n5eav7sijc4cimkdedu7jmh8ofk01p3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
